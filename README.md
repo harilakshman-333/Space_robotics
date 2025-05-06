@@ -27,7 +27,7 @@ Space robotics involves the design and deployment of robotic systems for space e
 
 ## Articles
 
-- [Building vs Buying a Robotics Platform](https://formant.io/news-and-blog/2023/02/22/analytics/build-vs-buy-robotics-platform/) - Formant.
+- [How Robots Are Pioneering Space Exploration](https://www.captechu.edu/blog/how-robots-are-pioneering-space-exploration) - Capitol Tech University.
 
 
 ## Contributing
