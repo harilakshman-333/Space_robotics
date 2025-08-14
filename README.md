@@ -34,13 +34,13 @@ Space robotics involves the design and deployment of robotic systems for space e
 - [How Robots Are Pioneering Space Exploration](https://www.captechu.edu/blog/how-robots-are-pioneering-space-exploration) - Capitol Tech University.
 - [Science in Space: Robotic Helpers](https://www.nasa.gov/missions/station/iss-research/science-in-space-robotic-helpers/) - NASA.
 - [IEEE Space robotics section](https://spectrum.ieee.org/tag/space-robots) - IEEE Spectrum.
--[Future of space travel: Could robots really replace human astronauts?](https://www.bbc.co.uk/news/articles/cy7keddnj31o) - BBC.
--[Space Robot Research Papers](https://spj.science.org/page/space/si/Space-Robot) - Science Journal.
--[Space robot research papers and topics](https://www.frontiersin.org/journals/robotics-and-ai/sections/space-robotics) - Frontiers Journal.
--[Robots as social companions for space exploration](https://www.sciencedirect.com/science/article/pii/S2949882125000088) - Science Direct.
--[2024 International Conference on Space Robotics (iSpaRo)](https://ieeexplore.ieee.org/xpl/conhome/10685845/proceeding) - FIrst iSparo COnference papers.
--[SPace Denmark LinkedIn page for updates](https://www.linkedin.com/company/space-denmark/posts/?feedView=all) - Space Denmark
--[REACCHing for innovation: Voyager brings next-gen robotics to space](https://www.linkedin.com/pulse/reacching-innovation-voyager-brings-next-gen-robotics-marshall-smith-y5gie/?trackingId=HkQQFkqnRRCCpHdgLc5eMQ%3D%3D) - Interesting post from Voyager space solutions.
+- [Future of space travel: Could robots really replace human astronauts?](https://www.bbc.co.uk/news/articles/cy7keddnj31o) - BBC.
+- [Space Robot Research Papers](https://spj.science.org/page/space/si/Space-Robot) - Science Journal.
+- [Space robot research papers and topics](https://www.frontiersin.org/journals/robotics-and-ai/sections/space-robotics) - Frontiers Journal.
+- [Robots as social companions for space exploration](https://www.sciencedirect.com/science/article/pii/S2949882125000088) - Science Direct.
+- [2024 International Conference on Space Robotics (iSpaRo)](https://ieeexplore.ieee.org/xpl/conhome/10685845/proceeding) - FIrst iSparo COnference papers.
+- [SPace Denmark LinkedIn page for updates](https://www.linkedin.com/company/space-denmark/posts/?feedView=all) - Space Denmark
+- [REACCHing for innovation: Voyager brings next-gen robotics to space](https://www.linkedin.com/pulse/reacching-innovation-voyager-brings-next-gen-robotics-marshall-smith-y5gie/?trackingId=HkQQFkqnRRCCpHdgLc5eMQ%3D%3D) - Interesting post from Voyager space solutions.
 
 ## 📚 Courses
 
@@ -63,6 +63,7 @@ Space robotics involves the design and deployment of robotic systems for space e
 - [How astronauts control robots from space](https://youtu.be/BMFPVCu16SQ?si=zfQvZ4O8puGgvpRB) - Short vid by ESA.
 - [Space ROS](https://youtu.be/HtjYBQ8gZkc?si=IqsEmFllxLpfl38V) - Quick intro to space ROS
 - [Space Robotics Lab](https://www.youtube.com/@spaceroboticslab) - Youtube channel of SPace robotics team from Japan
+- [DLR's Advancements in Space Robotic Manipulation](https://www.youtube.com/watch?v=8OtwR-S6QUs) - DLR's Manipulator
 
 
 
