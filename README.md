@@ -52,13 +52,12 @@ Space robotics involves the design and deployment of robotic systems for space e
 
 ## 📚 Platforms and tools
 
--[Space ROS](https://space.ros.org/) - Check out github and articles.
-
+- [Space ROS](https://space.ros.org/) - Check out github and articles.
 - [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - comprehensive collection of environments and tasks for robotics research, check out the dicord group as well.
 
 ## 📚 Videos
 
--[Space Robotics playlist](https://youtube.com/playlist?list=PLE-BQwvVGf8EOpuaw6CUVULJAa4JwrC7X&si=uoHhSrIG2UhJ-RUv) - Playlist curated by ETH university.
+- [Space Robotics playlist](https://youtube.com/playlist?list=PLE-BQwvVGf8EOpuaw6CUVULJAa4JwrC7X&si=uoHhSrIG2UhJ-RUv) - Playlist curated by ETH university.
 - [These are the roboots helping us explore space](https://youtu.be/V3gIWyjEtEg?si=7BobK1605lnX6ZfE) - Space robotics applications.
 - [Space robot : exploring the cosmos with AI-Powered robots](https://youtu.be/1AMG3LveZi0?si=KW7sCur4FXJSFnwq) - Documentary video by FD Engineering.
 - [How astronauts control robots from space](https://youtu.be/BMFPVCu16SQ?si=zfQvZ4O8puGgvpRB) - Short vid by ESA.
