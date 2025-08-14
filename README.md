@@ -52,8 +52,9 @@ Space robotics involves the design and deployment of robotic systems for space e
 
 ## 📚 Platforms and tools
 
--[Space ROS](https://space.ros.org/) - Check out tutorials, github and articles.
--[Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - comprehensive collection of environments and tasks for robotics research, check out the dicord group as well.
+-[Space ROS](https://space.ros.org/) - Check out github and articles.
+
+- [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - comprehensive collection of environments and tasks for robotics research, check out the dicord group as well.
 
 ## 📚 Videos
 
